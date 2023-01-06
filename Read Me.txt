@@ -1,0 +1,6 @@
+A reminder to myself.
+
+-Visual Studio 2020.
+-Project-> Properties-> drop down Linker-> All Options-> SubSystem-> Console (/SUBSYSTEM:CONSOLE)
+-Console (/SUBSYSTEM:CONSOLE)  main entry point is main function.  Displays window and console.
+-Windows (/SUBSYSTEM:WINDOWS)  main entry point is winmain function. Display window without the console.
